@@ -1,9 +1,24 @@
-- 👋 Hi, I’m @delvisjuan
-- 👀 I’m interested in learn
-- 🌱 I’m currently learning programming
-- 📫 How to reach me delvisjuan2002@gmail.com
+# ¡Hola! Soy Delvis Juan 👋
 
-<!---
-delvisjuan/delvisjuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Soy un desarrollador apasionado con experiencia en diversas tecnologías y frameworks. Me encanta crear aplicaciones eficientes y escalables. Aquí te cuento un poco sobre mis habilidades:
+
+## Tecnologías y Herramientas
+
+- **Frontend:**
+  - React
+  - React Native
+  - Nuxt.js
+
+- **Backend:**
+  - Express.js
+  - Sequelize
+  - JavaScript
+  - TypeScript
+  - Python
+
+## Contacto
+
+- **GitHub:** [delvisjuan](https://github.com/delvisjuan)
+- **Correo Electrónico:** <delvisjuan2002@gmail.com>
+
+¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o proyecto en mente.
