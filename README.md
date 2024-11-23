@@ -1,24 +1,40 @@
-# ¡Hola! Soy Delvis Juan 👋
+<h1 align="center">Hi 👋, I'm Delvis Juan</h1>
+<h3 align="center">I am a passionate developer with experience in various technologies and frameworks. I love creating efficient and scalable applications. Here’s a little about my skills:</h3>
 
-Soy un desarrollador apasionado con experiencia en diversas tecnologías y frameworks. Me encanta crear aplicaciones eficientes y escalables. Aquí te cuento un poco sobre mis habilidades:
+---
 
-## Tecnologías y Herramientas
+- 📫 How to reach me:
+  - **GitHub:** [delvisjuan](https://github.com/delvisjuan)
+  - **Correo Electrónico:** <delvisjuan2002@gmail.com>
 
-- **Frontend:**
-  - React
-  - React Native
-  - Nuxt.js
+---
 
-- **Backend:**
-  - Express.js
-  - Sequelize
-  - JavaScript
-  - TypeScript
-  - Python
+<h1 align="center">TECHNOLOGY</h1>
 
-## Contacto
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" style="height:4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"  style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" style="height:4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  style="height: 4rem"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  style="height: 4rem"/>
+</p>
 
-- **GitHub:** [delvisjuan](https://github.com/delvisjuan)
-- **Correo Electrónico:** <delvisjuan2002@gmail.com>
+---
 
-¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o proyecto en mente.
+
+
+
+
