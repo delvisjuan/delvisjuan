@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Delvis Juan</h1>
 <h3 align="center">I am a passionate developer with experience in various technologies and frameworks. I love creating efficient and scalable applications. Here’s a little about my skills:</h3>
 
----
-
-- 📫 How to reach me:
-  - **GitHub:** [delvisjuan](https://github.com/delvisjuan)
-  - **Correo Electrónico:** <delvisjuan2002@gmail.com>
-
----
 
 <h1 align="center">TECHNOLOGY</h1>
 
@@ -33,6 +26,13 @@
 </p>
 
 ---
+
+- 📫 How to reach me:
+  - **GitHub:** [delvisjuan](https://github.com/delvisjuan)
+  - **Correo Electrónico:** <delvisjuan2002@gmail.com>
+
+---
+
 
 
 
